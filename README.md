@@ -44,21 +44,10 @@ Committed (`data/`):
 | `book_token_counts.csv` | 4,246 | per-book token counts |
 | `english_originals.txt` | 4,077 | filenames of works originally written in English |
 
-Not committed, needed only where noted: the corpus texts, the fine-tuned model, the
-per-book prediction JSONs, and the raw annotation exports. Point at them with
-`EMBODIMENT_CORPUS`, `EMBODIMENT_MODELS`, `EMBODIMENT_PREDICTIONS`,
-`EMBODIMENT_BENCHMARK` and `EMBODIMENT_ANNOTATIONS`, or edit `embodiment/config.py`.
-
-Annotators appear as `A` and `B` throughout: in the `annotator` column of
-`double_coded.csv` and `label_corrections.csv`, and in the `source` column of the gold set
-and splits (`label_studio_a`, `browse_a`, `app_b`; `master` predates the split rounds).
-Notebook 01 reads the identifiers used in the private exports from `ANNOTATOR_A_EMAIL`,
-`ANNOTATOR_A_NAME` and `ANNOTATOR_B_NAME`.
 
 ## Model
 
-The fine-tuned checkpoint will be released on the Hugging Face Hub on publication; the
-link goes here. Until then, `scripts/predict_corpus.py` and notebook 03 read a local
+The fine-tuned checkpoint will be released on the Hugging Face Hub on publication. Until then, `scripts/predict_corpus.py` and notebook 03 read a local
 checkpoint from `EMBODIMENT_MODELS`, and notebook 03 reproduces it from the committed
 splits.
 
