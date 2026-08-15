@@ -1,0 +1,17 @@
+# Analysis
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+matplotlib>=3.7
+adjustText>=1.0
+jupyter
+
+# Classifier training and corpus prediction (notebook 03, scripts/predict_corpus.py)
+torch>=2.0
+transformers>=4.40
+datasets>=2.14
+
+# LLM benchmark (scripts/run_llm_benchmark.py)
+openai>=1.30
+tqdm

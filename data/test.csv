@@ -1,0 +1,844 @@
+filename,sentence_id,text,label,source
+Frank_Gee_Patchin_-_The_Pony_Rider_Boys_in_Texas.txt,2405,"asked the foreman, who had been interestedly watching the preparations.",5,browse_a
+Carolyn_Judson_Burnett_-_The_Blue_Grass_Seminary_Girls'_Vacation_Adventures.txt,3434,He turned his head and sobbed.,10,browse_a
+PG24211_raw.txt,3507,"""It will only alarm the women, and do no good.""
+",0,master
+Voleur_-_For_Love_of_a_Bedouin_Maid.txt,3156,"St. Just carefully examined it, and weighed it in his hand.",2,browse_a
+PG25920_raw.txt,5497,"The muffled tones of the old grandfather's clock in the hall clashed the hour of ten.
+",3,master
+"Frederick_Gordon_-_Fairview_Boys_at_Camp_Mystery;_or,_the_Old_Hermit_and_His_Secret.txt",2254,"In spite of the fact that it was Winter, and that snow was on the ground, there was a spot of green grass and ferns to be seen, surrounding a boiling and bubbling spring of clear water.",8,browse_a
+Quincy_Allen_-_The_Outdoor_Chums_in_the_Forest.txt,2336,"""Perhaps it is,"" said Frank, looking at Jerry and nodding.",5,browse_a
+Howard_Roger_Garis_-_The_Curlytops_at_Silver_Lake.txt,1054,"“Come, Trouble!” and she held out her hands.",10,browse_a
+PG5231_raw.txt,1224,"At the end of that twelvemonth he paid a second visit to California, having borrowed money from Roger for his journey.",1,label_studio_a
+PG53362_raw.txt,4114,"“Howdy, Mr. Ballard,” said Tom, walking up and shaking the Texas rebel by the hand.
+",7,master
+Claude_H._Wetmore_-_Incaland.txt,3799,"Chirimoya, Chēē-rēē-möy’-yä.",6,browse_a
+PG40897_raw.txt,1082,"""Do I look like a joker?"" he repeated loudly, banging his fist on the table so that all turned their eyes in the direction of the noise.
+",2,master
+Burt_L._Standish_-_Frank_Merriwell's_Return_to_Yale.txt,3461,The appearance of Frank on the field had seemed to awaken Bob Cook.,5,browse_a
+PG46390_raw.txt,1939,"The larboard and waist-boats were equipped and lowered for the fishing excursion, and we shoved off in high feather.
+",2,master
+Ridgwell_Cullum_-_The_Twins_of_Suffering_Creek.txt,2601,The two onlookers never took their eyes off him.,5,app_b
+PG43702_raw.txt,2793,"Don't look around, man!
+",0,master
+H._A._Cody_-_The_Frontiersman_A_Tale_of_the_Yukon.txt,2061,"""The answer is there,"" and the missionary waved his hand towards the Indian houses.",10,browse_a
+PG27453_raw.txt,734,"He talked a lot about his abnormal luck, but one man present seemed to be constantly on the fidget.
+",0,master
+Robert_Neilson_Stephens_-_The_Bright_Face_of_Danger.txt,4268,An Enemy to the King,6,browse_a
+PG38060_raw.txt,4285,"The little pond showed no ripple except a flash of the moonlight.
+",3,master
+PG20515_raw.txt,2795,"He could recall again the furious rage of Napoleon, the almost despair that filled the Emperor's heart, when the news came of the cowardly surrender of the fort at Soissons by its incapable commandant, which rendered useless Napoleon's cunning plans, and all the hard marching and harder fighting of his heroic soldiery.",0,label_studio_a
+Charles_Clark_Munn_-_The_Girl_From_Tim's_Place.txt,36,"First, Tim Connor, the owner and master of this oasis in the wilderness, sixty miles from the nearest settlement;",0,browse_a
+PG9301_raw.txt,3303,She went straight to her own room.,1,label_studio_a
+PG17761_raw.txt,407,"So the two eldest Bunker children crouched down on the side porch, under the dining-room windows, and listened to the talk that was going on inside.
+",3,master
+PG36717_raw.txt,1402,"She illustrated her ideas of these strange beings by sketching a picture on an imaginary canvas.
+",0,master
+PG35463_raw.txt,5161,"She twisted her ringed fingers, while her eyes implored me to help her.
+",10,master
+PG26528_raw.txt,1438,"There wa'n't any signs of a change, either.
+",0,master
+PG34813_raw.txt,2825,"Her voice was an expression of the high arcanum that he had glimpsed in her eyes.
+",5,master
+"John_McElroy_-_Si_Klegg,_Book_5.txt",3579,"""And you're Maj. Tomlinson, of the 1st Oshkosh.",0,browse_a
+PG284_raw.txt,2233,"The idea of bargaining for the letters was intolerable to her, but she knew that, if she appeared to weaken, Mrs.
+",9,master
+PG33829_raw.txt,1206,"When his clock tolled the hour nine he began that tedious lonesome ride down the valley.
+",1,master
+Maria_Thompson_Daviess_-_The_Heart's_Kingdom.txt,1121,"""'Abide with me, fast falls the even tide,'"" he chanted, and then waited while my sobs died away and I let go my drowning grasp on his wrist.",7,app_b
+PG50886_raw.txt,1017,Good evening.”,0,label_studio_a
+PG110_raw.txt,2490,“What—really now?,0,label_studio_a
+PG35509_raw.txt,814,"After such a night, again in his home with the day's work and play ended, kneeling beside his lonely little bed beneath the crucifix, the sorrow, the shame, the pain, the misery caused by all of life seemed to surge through his veins like a tempestuous sea overwhelming all before it.
+",3,master
+PG38087_raw.txt,2604,"It lay in the shadow of the rock, and there was no moonlight on the ghostly combers which came seething down upon it.
+",3,master
+PG38665_raw.txt,2090,"The Count began to pace the room between the writing-table and the window.
+",1,master
+PG26027_raw.txt,3005,"He tossed a handful of dust in the air.
+",2,master
+PG6431_raw.txt,6112,"So, arm in arm, they also turned toward the lane; and which was then welcoming the other home neither could have said.
+",7,master
+PG29588_raw.txt,1226,"""But I'm going to stay all the same.""
+",0,master
+PG765_raw.txt,6668,"I strove to get my own gun quickly.
+",1,master
+PG44846_raw.txt,3013,"“Do you s’pose these men had anything to do with stealing our boat and with the lighthouse plot?” asked Bob, as he and his chums walked along.",1,label_studio_a
+PG53663_raw.txt,1416,"Oh dear, how different everything seemed then!
+",0,master
+PG3178_raw.txt,3186,"I've nearly got the lighting part, but I want to attach to it a heating, cooking, washing and ironing apparatus.",0,label_studio_a
+Alice_Brown_-_The_Prisoner.txt,8536,"She seated herself, still not releasing Esther until she also had sunk into a chair by her side, and refreshed herself from a little viniagrette.",7,app_b
+"Wilson,_Mrs._Woodrow_-_The_Black_Pearl.txt",677,"Then, having delivered herself of her burden of important news, she suffered one of her quick revulsions of fright, and clapped her hand to her mouth and turned white.",10,browse_a
+PG25159_raw.txt,487,At the wrists and neck of her brown-silk waist were spotless bands of white; and on her head was a dashing little brown hat with green wings.,5,label_studio_a
+PG30623_raw.txt,7803,Leaving him to die was a necessity for her country.,0,label_studio_a
+PG45898_raw.txt,2496,"As I washed, I could hear my neighbor washing on the other side of the partition.
+",3,master
+PG30896_raw.txt,12383,It was quite good and strong by now.,0,label_studio_a
+"Edward_Stratemeyer_-_The_Rover_Boys_on_a_Hunt;_or,_The_Mysterious_House_in_the_Woods.txt",2677,At once he sent up a shout.,0,app_b
+PG41206_raw.txt,2740,"Bricktop walked up with an air of confidence, amid encouraging comments from his chums.
+",1,master
+L._Allen_Harker_-_Miss_Esperance_and_Mr_Wycherly.txt,2411,"It seems to me, Montagu, that, as Colonel Dundas is coming, we might ask him if there is any sergeant in his regiment who would teach you to box—properly.",0,app_b
+John_Henry_Goldfrap_-_The_Dreadnought_Boys_on_a_Submarine.txt,97,"“Looks soft as rubber,” mused Ferriss, “but he’s tough as Harveyized steel; and a blessed sight less workable.",0,browse_a
+Angela_Brazil_-_The_Princess_of_the_School.txt,1812,To her utter surprise it contained the missing bracelet.,8,browse_a
+PG37118_raw.txt,7178,"If you smile like that again you will make me cry.""",0,label_studio_a
+PG35162_raw.txt,382,"""You talk French so good!""",0,label_studio_a
+PG28271_raw.txt,499,But suddenly something familiar in a solitary figure standing at the far end of the gravel embankment caught her eye;,5,label_studio_a
+Howard_Roger_Garis_-_Uncle_Wiggily's_Adventures.txt,1284,So brave Uncle Wiggily stood up on one ear and waved his feet in the air.,10,browse_a
+PG28537_raw.txt,1834,"'Thankin' you for the complimint, Sorr, ut may be so.",0,label_studio_a
+PG90_raw.txt,3988,It was still dark when the Hon.,9,label_studio_a
+Frank_V._Webster_-_Bob_Chester's_Grit.txt,963,"As the stranger recounted this exciting adventure, Bob's eyes grew larger and larger, and his mouth gaped in wonder.",4,app_b
+Alec_Waugh_-_Roland_Whately_A_Novel.txt,3134,And the smile that accompanied the question made Roland feel very grown up and important.,4,app_b
+Richard_Harding_Davis_-_Somewhere_in_France.txt,1605,His shirt had been cut away;,5,browse_a
+PG24631_raw.txt,315,"He tottered on his legs, and Levi sprang to his assistance just as he dropped senseless on the floor.
+",1,master
+Clara_Morris_-_A_Pasteboard_Crown_A_Story_of_the_New_York_Stage.txt,3427,"He bent over her, his face all passion-pale, his heavy, drooping lids betraying their girl-like length of lashes.",4,browse_a
+PG432_raw.txt,4292,"He hadn’t reported to Mrs.
+",9,master
+PG30938_raw.txt,1027,"""Well, if I do,"" Frank grumbled, ""it won't do me any good to remember you're on the Harvard side.""",0,label_studio_a
+PG27400_raw.txt,3509,"he had become a pupil of Herr Duffenthaler, and worked hard in his master's studio with two brothers of the brush--one English, the other American;",0,label_studio_a
+PG16096_raw.txt,3653,"As soon as he heard Bennett's step in the hall a little tremor of excitement possessed him.
+",3,master
+Eugène_Sue_-_The_Knight_of_Malta.txt,908,"She saw it in her own mind, instead of on the vellum which she held in her hand.",8,browse_a
+PG28162_raw.txt,4227,"A wonderful look of joy and tenderness came over his face.
+",4,master
+Walter_Scott_-_Ivanhoe_A_Romance.txt,5897,"Mont-Fitchet took the letter from his Superior, and was about to peruse it.",2,app_b
+Robert_Shaler_-_The_Boy_Scouts_as_County_Fair_Guides.txt,1086,"Hugh finally got him quieted down, so that when he had washed his face and his inflamed eyes, Andy was in condition to step out again, and wander off.",7,browse_a
+Legh_Richmond_-_The_Dairyman's_Daughter.txt,210,"It was a lofty station, which commanded a complete circle of interesting objects to engage the spectator's attention.",8,browse_a
+"Max,_Sir_Beerbohm_-_Zuleika_Dobson.txt",5948,"“Sister Zuleika,” he presently said to the ceiling.",8,browse_a
+PG31380_raw.txt,3872,"The sound grew louder and seemed to come nearer.
+",3,master
+PG23730_raw.txt,1594,"stabbing, thrusting, slashing at the great form which was pressing him deeper and deeper into the snow.
+",2,master
+Rudyard_Kipling_-_Soldier_Stories.txt,475,"But, on the other hand, if he sees only men of his own term of service, turning white and playing with their triggers and saying: 'What the Hell's up now?' while the Company Commanders are sweating into their sword-hilts and shouting: 'Front-rank, fix bayonets.",5,browse_a
+PG47674_raw.txt,1521,"*CHAPTER V
+",6,master
+Helen_Leah_Reed_-_Miss_Theodora_A_West_End_Story.txt,612,"My visits to her are purely social, not charitable, and this is my reward""--and Kate displayed a clumsy package in yellow wrappings.",2,app_b
+Burt_L._Standish_-_Frank_Merriwell's_Bravery.txt,3739,"Frank's first thought was that the man might harm Fay, but the look on the face of the hermit told that he had no such intention.",4,app_b
+PG29776_raw.txt,2039,The girl who watched them breathlessly from behind the roses clutched her hands over her heart.,7,label_studio_a
+Nathan_Gallizier_-_Under_the_Witches'_Moon_A_Romantic_Tale_of_Mediaeval_Rome.txt,5832,"""You shall learn presently.""",0,app_b
+Margaret_Vandercook_-_The_Red_Cross_Girls_with_Pershing_to_Victory.txt,2334,Obvious punctuation errors were corrected.,6,browse_a
+Joseph_A._Altsheler_-_The_Keepers_of_the_Trail_A_Story_of_the_Great_Woods.txt,3088,"They wonder ef fire hez busted right out uv the bowels uv the earth an' burnt us all up, an' ag'in they're 'fraid to come an' see lest they meet rifle bullets ez well ez smoke.",0,app_b
+PG39066_raw.txt,4612,"""Is old Janet still here?"" the duchess asked as he left the room.
+",1,master
+PG40024_raw.txt,1495,"""Shall we?""",0,label_studio_a
+PG17314_raw.txt,229,"""Does she always talk nonsense, or is it only the rubbish on her head that makes her silly?""
+",0,master
+"E._W._Hornung_-_A_Thief_in_the_Night_Further_adventures_of_A._J._Raffles,_Cricketer_and_Cracksman.txt",3699,"The youth was looking full at Raffles, with the watery eyes of unsuspecting innocence.",4,browse_a
+Zoé_Anderson_Norris_-_The_Way_of_the_Wind.txt,1926,"""We must,"" answered Cyclona; and people came in wonder to look at the beautiful house whose gold door knobs passed into one of the many traditions of the excess of insanity displayed by the very rich of that marvellous boom in their expenditure of money.",8,browse_a
+H._Bedford-Jones_-_The_Mardi_Gras_Mystery.txt,771,Maillard obeyed.,10,browse_a
+Jane_G._Austin_-_Standish_of_Standish_A_Story_of_the_Pilgrims.txt,3400,"asked the governor still gravely, and one by one each man signified his assent, only Howland coming close to the captain asked,--",9,browse_a
+PG30648_raw.txt,1769,"There are notices in all the tongues of Europe on the walls--notices of sunken wrecks, of masters fined for submerging their loaded discs, of white lights in the China seas altered to green ones by the Celestial Government, of transport-medals awaiting their owners, of how to send money home from Salonika or Copenhagen or Yokohama or Singapore.",8,label_studio_a
+Hamlin_Garland_-_The_Trail_of_the_Goldseekers_A_Record_of_Travel_in_Prose_and_Verse.txt,2980,"He seemed to recognize me, and as I put the rope about his neck and fell to in the effort to make him clean once more, he seemed glad of my presence.",2,app_b
+PG25765_raw.txt,1283,"But Beverly did not know anything about it.
+",0,master
+PG967_raw.txt,8002,"Mr. Lillyvick laid down his knife and fork, and looked round the table with indignant astonishment.",2,label_studio_a
+PG969_raw.txt,7616,"Just as I was taking leave of the vicar, she entered the room, ready equipped for a walk.
+",1,master
+PG36715_raw.txt,2015,"Having let down the boy, she went on clapping her hands, swaying in all directions, and wailing.
+",10,master
+PG4748_raw.txt,3562,"There was mixed with it an indefinable and superstitious fear, a thing he laughed at, a thing he cursed at, but which clung to him as surely as the scent of his trail clung to Baree's nose.
+",3,master
+PG36220_raw.txt,2825,"He leaned against the newel of the staircase and looked at me, quite surprised.
+",5,master
+P._G._Wodehouse_-_Love_Among_the_Chickens.txt,1859,Socks!,0,app_b
+PG211_raw.txt,1541,"It was immense, but in a case in which there was a particular reason for boldness it never would have prevented her from running up to my rooms.",1,label_studio_a
+PG50983_raw.txt,5302,"Dan nodded and moved away.
+",10,master
+PG40600_raw.txt,5077,"After dark I drew up so close that I almost ran into 'em when they stopped suddenly at the other side of a ridge.
+",1,master
+PG41764_raw.txt,204,"but now so strongly had the appearance of this stranger won upon her, that she only smiled and shook her head.
+",4,master
+PG31831_raw.txt,1016,"""And you intend to get it, I suppose?"" added the colonel.",0,label_studio_a
+PG38254_raw.txt,2619,"""Oh, I guess we can tackle a slice,"" remarked William, and Fenn went proudly to the stove, where the pudding was being kept hot, and soon had it on the table, flanked by two bowls of savory sauce.",2,label_studio_a
+Jean_Webster_-_When_Patty_Went_to_College.txt,2340,"The crash was not due for some time, and Patty, having lately elected astronomy, whiled away the interval by examining the stars.",8,browse_a
+PG34724_raw.txt,3886,"""maybe this is bad.""",0,label_studio_a
+Isla_May_Mullins_-_The_Boy_from_Hollow_Hut.txt,979,"As he stood there well dressed, erect, manly, he bore little resemblance to the forlorn boy who had crept away from his cabin home at Hollow Hut a year before.",5,browse_a
+PG28295_raw.txt,1906,"""It will die out and give place to reason.""",0,label_studio_a
+Egerton_Castle_-_The_Light_of_Scarthey_A_Romance.txt,4495,"Miss Landale tossed her long faded ringlets quite coquettishly, turned one slim bony hand with coy gesture before her approving eyes.",10,browse_a
+PG37015_raw.txt,2610,"Carolyn May tumbled off the sled in a hurry.
+",1,master
+PG36953_raw.txt,4113,Hunt heard his sister crying and laughing somewhere near.,3,label_studio_a
+PG37015_raw.txt,2686,"Mr. Parlow slid back the front door of his shop to stare in wonder at the group.
+",5,master
+PG22424_raw.txt,520,"He took something from his pocket--something wrapped in a handkerchief.
+",2,master
+"Horatio,_Jr._Alger_-_In_A_New_World;_or,_Among_The_Gold_Fields_Of_Australia.txt",3973,"But you don't look well, Mr. Fox.",5,browse_a
+Guy_Boothby_-_The_Beautiful_White_Devil.txt,5027,"Almost bare of synthetical      decoration, his paragraphs are stirring because they are      real.",6,browse_a
+John_Henry_Goldfrap_-_The_Boy_Scouts_Under_Fire_in_Mexico.txt,2117,"""Oh! I hope that doesn't happen,"" he kept on saying, as they all stood and watched the little puffs of smoke that broke out in ever so many places along the side of the rugged slope.",8,browse_a
+PG39643_raw.txt,883,"How long before this fog is likely to lift?""
+",0,master
+W._Bert_Foster_-_With_Ethan_Allen_at_Ticonderoga.txt,699,"At one point, however, 'Siah found where two persons--a white man and a red one--had embarked in a canoe which had been hidden under the bank of the creek.",8,browse_a
+Anatole_France_-_The_Crime_of_Sylvestre_Bonnard.txt,199,I examined an elegant Masquerade by Watteau.,8,browse_a
+Clair_W._Hayes_-_The_Boy_Allies_with_Pershing_in_France.txt,3910,For Boys 12 to 16 Years.,6,browse_a
+PG15541_raw.txt,1693,"MOTOR MAIDS SERIES Wholesome Stories of Adventure
+",6,master
+PG33409_raw.txt,1271,"Jack surveyed hers with an expression half of affection and half of disdain.
+",4,master
+PG41117_raw.txt,2890,"She could not herself have explained why she refrained from speaking, unless it were that weary, fretful expression of Mrs.
+",9,master
+Maria_Thompson_Daviess_-_The_Golden_Bird.txt,270,"He gave not a single note of remonstrance, but I suppose it was imagination that made me think that he fluffed himself into my embrace with friendly joy.",7,browse_a
+PG44455_raw.txt,3753,"Le Gros Guillem, hanging in mid-air, heard the uproar, saw the upward glow of light, and knew that he and his had been drawn into a cleverly contrived trap, and that he was lost irretrievably.
+",3,master
+"Alexandre_Dumas_-_Balsamo,_the_Magician;_or,_The_Memoirs_of_a_Physician.txt",7019,=,6,browse_a
+PG25849_raw.txt,1876,"Because of this theory, Mr. Buxton crossed the road directly before his own house, passed through the alley of a neighbor, and followed a circuitous course which compelled him to climb several back fences.
+",2,master
+PG24828_raw.txt,3200,"Margaret took the child's chin in her hand, and raised her face towards her.
+",7,master
+PG41779_raw.txt,2542,Dramatis Personæ.,6,label_studio_a
+"Lester_Chadwick_-_Baseball_Joe,_Home_Run_King;_or,_The_Greatest_Pitcher_and_Batter_on_Record.txt",2175,With much muttering and grumbling they obeyed.,10,browse_a
+PG49676_raw.txt,296,"Billy Worth was heard to say, half under his breath.",0,label_studio_a
+PG22407_raw.txt,2970,"savage war-cries rent the air, bounding back from one echo to another.
+",3,master
+PG46405_raw.txt,1653,"Utterly took out his notebook.
+",2,master
+Voleur_-_For_Love_of_a_Bedouin_Maid.txt,3151,"The shallower portion of what had been the lake, consisted now of dried up mud, intersected with deep fissures, with here and there a shallow pool.",8,browse_a
+Howard_Roger_Garis_-_The_Curlytops_Snowed_In.txt,880,"cried Tom when he saw them, and that afternoon when school was out, the ice windows were set in the holes in the walls of the snow house.",5,browse_a
+PG21572_raw.txt,1901,"""What's that?"" said I, pointing astern, ""it's a sail of some kind.""",8,label_studio_a
+PG3632_raw.txt,11327,"he took up his hat without looking either at Mr. Finch or at me. I felt more and more convinced that the influence which Nugent's vile breach of confidence had exerted over Oscar's mind, was an influence which had made a dangerous man of him.",5,label_studio_a
+David_Dwight_Wells_-_His_Lordship's_Leopard_A_Truthful_Narration_of_Some_Impossible_Facts.txt,411,"""Show him in!"" cried Banborough, fearing the worst, as he read Tybalt Smith's name on the card.",8,browse_a
+Isabel_Cecilia_Williams_-_The_Alchemist's_Secret.txt,914,"Turning his face to the wall, he closed his eyes, but sleep did not visit him that night.",8,browse_a
+"Homer_Randall_-_Army_Boys_on_the_Firing_Line;_or,_Holding_Back_the_German_Drive.txt",2644,One of the hinges of the door had rusted away and the door sagged heavily upon the other.,8,browse_a
+John_Buchan_-_The_Half-Hearted.txt,5987,"But each man had the ear of the old hunter, and waited with head bent forward.",0,browse_a
+PG33890_raw.txt,35,"VIII.
+",6,master
+Harry_Gordon_-_The_Six_River_Motor_Boat_Boys_on_the_St._Lawrence.txt,1547,Alex turned quickly and looked up the slip at the foot of which the canoe lay.,8,app_b
+Grace_Livingston_Hill_-_The_Mystery_of_Mary.txt,293,The name was the first one that my eye lit upon in the telephone-book.,8,browse_a
+Albert_Payson_Terhune_-_Lad_A_Dog.txt,1901,The Mistress looked very hard at the bit of blue and gold in her fingers.,5,browse_a
+L._Frank_Baum_-_Rinkitink_in_Oz_2.txt,805,Certainly it was unlike any boat he had ever seen.,8,browse_a
+PG47211_raw.txt,4584,"As he went down the steps of the hotel, with his aunt leaning on his arm, toward the vehicle which waited to take them to the station, a figure suddenly sprang forward and thrust aside the servant who held the door.
+",7,master
+"Alfred_Tennyson,_Baron_Tennyson_-_Tales_from_Tennyson.txt",1280,"She drew nearer and stood in the dewy light, studying his face as though it was a god.",5,browse_a
+D._H._Lawrence_-_Women_in_Love.txt,7282,"“Now he’s still!” she cried, seeing the rabbit settled down in a far corner of the hutch.",5,browse_a
+PG16631_raw.txt,6277,"""Be I an outlaw, or ain't I?"" he shouted over and over, raising a clamor in the quiet village that brought the Cap'n out of the town house.
+",3,master
+PG20981_raw.txt,3042,"Its flowers must often have adorned Addie Tristram's unsurpassed loveliness.
+",0,master
+PG37664_raw.txt,1258,"Up early enough to find the dew still wet on flowers and turf he enjoyed a swim every morning in the Italian bathing pool beneath the Cedar trees with Baby Lennox.
+",3,master
+Robert_Neilson_Stephens_-_The_Continental_Dragoon.txt,1287,He watched her with some wonderment.,5,browse_a
+Mary_Stewart_Daggett_-_Mariposilla_A_Novel.txt,1839,"Once free from the wagon, I found it impossible to resist the picturesque old stone stairway, which leads from the ground to the choir above.",8,browse_a
+PG2590_raw.txt,3815,"So saying he drew himself up in his chair, and waited for Mr. Glossin's communication.
+",2,master
+Ralph_Victor_-_Comrades_on_River_and_Lake.txt,2360,"“It may be worked by a spring in the wall,” Tom earnestly replied.",0,app_b
+PG26725_raw.txt,1093,"""I wonder whose boys they is?"" he said to himself.
+",0,master
+PG38314_raw.txt,450,"""But after it does stop we can make up our plans, and start to carry the same out,"" Elmer continued, knowing that if he kept the minds of his companions employed in some fashion they would not find much time to worry.
+",0,master
+PG42396_raw.txt,692,"Thomas looked at Jamie, who was standing at the window, vainly trying to peer through the ever-present mist, and as he saw Jamie raise his hand to brush the mist away a great lump came into his throat.
+",5,master
+PG23286_raw.txt,2987,"Then came a sharp tapping, as of a hammer on steel, and with this a curious humming sound, as if some big blowing machine was in action.
+",3,master
+"Evelyn_Raymond_-_Jessica,_the_Heiress.txt",1068,"The lady sat down upon the nearest chair, and, as she did so, caught sight of the basket upon the desk.",8,browse_a
+Sophie_May_-_The_Twin_Cousins.txt,1893,It introduces all the old favorites of the Prudy and Dotty books with new characters and funny incidents.,6,browse_a
+PG14630_raw.txt,2164,"Jerry set down the lantern, and later leaned the rifle against the wall when he had made sure that nobody was in sight.
+",2,master
+PG53166_raw.txt,1540,"“It’s a shame!” cried Dick.
+",0,master
+PG28504_raw.txt,3722,"Wherefore, there appeared on the surface of Mill stream, not long after sundown, two canoes that held, respectively, Henry Burns and Harvey and Tim Reardon, and Tom Harris and Bob White.
+",8,master
+PG49125_raw.txt,565,"She could not understand all she heard, but she realized that the boy was in great danger unless she acted at once.
+",0,master
+PG33761_raw.txt,5715,At this Mrs.,9,label_studio_a
+PG34208_raw.txt,1804,"Under that challenging gaze the man from the East found himself flushing.
+",4,master
+PG37270_raw.txt,2326,"For my part, I sat in the room behind the bar, listening to the Honest Fool talking with my patrons, and shed my clothes before a blazing fire.
+",3,master
+PG2865_raw.txt,76,"Outside, the rain beat upon the roof or ran trickling from the eaves, and every now and then a chill draught of wind would breathe through the open windows of the great black dining-hall and set the fire roaring.
+",3,master
+PG159_raw.txt,2912,"This is the only portion of this story that has been previously published, and it has been entirely recast to adapt it to the narrative form.
+",6,master
+PG52110_raw.txt,2092,"He was moving toward the stairway.
+",1,master
+PG19495_raw.txt,483,"When they reached the second-line trench the boys were leaving it, by hundreds as it seemed to Tom, and crowding through the crooked communication trenches.
+",1,master
+F._Marion_Crawford_-_Marion_Darche_A_Story_Without_Comment.txt,2446,"In appearance he was a bald man with refined features, a fair beard turning gray, gentle blue eyes, an average figure, small feet and hands, well-made clothes, a chronic watch-chain and a ring with an intaglio.",5,browse_a
+PG17892_raw.txt,4405,_,9,label_studio_a
+PG28780_raw.txt,875,"As the limp body thudded to the wood, the operator sprinted after the vanished figures.
+",1,master
+PG284_raw.txt,6369,"She met his eyes with an illumined look.
+",4,master
+PG37006_raw.txt,1235,"17. Wild Tom of Wyoming.
+",6,master
+Eustace_Hale_Ball_-_Traffic_in_Souls_A_Novel_of_Crime_and_Its_Cure.txt,3772,"His own revolver was out now, and he sent a bullet into the fellow's shoulder.",2,app_b
+PG18883_raw.txt,6577,"Trench turned his back so that his companion might not see his face.
+",5,master
+PG36531_raw.txt,2288,"Baird would have been astonished by Edward's air of animation and pleasure, more so even than Ann.
+",0,master
+Sewell_Ford_-_Horses_Nine.txt,446,"But in the morning, when the show lot was reached and the travelling wraps taken off the wagons, there he would see the heavy shouldered Pans all in their places as hideous and as permanent as ever.",0,browse_a
+PG41549_raw.txt,3935,"Then when the water was very hot, they brought some to him in a huge wooden spoon.",2,label_studio_a
+PG35046_raw.txt,2783,"*       *       *       *       *
+",6,master
+Julie_M._Lippmann_-_Making_Over_Martha.txt,179,Mrs. Peckett inquired.,0,app_b
+PG26391_raw.txt,2497,"Douglas queried.
+",0,master
+PG13017_raw.txt,3763,"I entered softly, thinking she might be curled up asleep, but as I crossed the threshold I heard the sound of laughter.",3,label_studio_a
+PG26189_raw.txt,3321,"Going out at the close of the session, he met Cargill.
+",1,master
+Ottwell_Binns_-_A_Mating_in_the_Wilds.txt,2307,"""Fortunately this lake seems very shallow.""",8,browse_a
+PG45347_raw.txt,832,"Is that a center of advanced scientific thought?
+",0,master
+PG10542_raw.txt,1008,"And whilst some of us were busied about this, he took the others and set up a small tent made of the spare canvas, and under this he sheltered all of our matters like to be harmed by the rain.
+",2,master
+PG18366_raw.txt,1999,"It's a hard thing I'm askin' of ye, an' in this case I'll show ye the reason, though 'tis not my habit.
+",0,master
+PG41859_raw.txt,2796,When she regained self-control--a matter of a minute or less--she might be clear-sighted enough to grasp the paramount importance of the admission that she had not as yet placed an insuperable barrier between herself and the man she had cast off.,0,label_studio_a
+A._P._Herbert_-_The_Secret_Battle.txt,653,This always looked like the summit of some commanding height;,8,browse_a
+PG13728_raw.txt,13341,"When she drew back from the window, after darkening the now sun-flooded room in a very thorough business-like way, in order that she might have four or five hours' sleep, there was something symbolic in the act.
+",3,master
+PG22225_raw.txt,838,"Josie O'Gorman was about the same age as Mary Louise and she was the only child of John O'Gorman, famed as one of the cleverest detectives in the Secret Service.
+",0,master
+Lord_Dunsany_-_The_Sword_of_Welleran_and_Other_Stories.txt,4,The Sword of Welleran,6,browse_a
+James_R._Driscoll_-_The_Brighton_Boys_at_Chateau-Thierry.txt,1531,Some lay still and prayed aloud.,0,browse_a
+PG41929_raw.txt,4062,"'What is this little animal?' the Tartar asked, cocking one eye in a knowing way and examining him with a sort of boozy gravity.",5,label_studio_a
+Frederick_Upham_Adams_-_John_Henry_Smith.txt,3621,"To the north, west and southeast the forest lay prone like a field of wind-swept corn.",8,browse_a
+PG25893_raw.txt,1289,Bea looked triumphant also.,4,label_studio_a
+Sarah_Orne_Jewett_-_The_Tory_Lover.txt,15,The Captain speaks     VII.,6,browse_a
+Berta_Ruck_-_The_Boy_with_Wings.txt,403,You know; the one I got the idea of from noticing the reflections of the ground-glass diamond patterns on me through the bath-room window.,8,browse_a
+PG5401_raw.txt,955,"The bequest from the Australian uncle had reached them just in time, so, with thankful hearts, they celebrated and had done so annually ever since.",0,label_studio_a
+PG23157_raw.txt,3156,"Joel's two eyes came into action long enough to perceive Celia, sitting in a chair drawn close to the bed.
+",5,master
+Edward_Stratemeyer_-_Marching_on_Niagara.txt,3038,Dave drew a long breath.,10,browse_a
+PG38357_raw.txt,2584,"You acted with rare discretion and did me a great service.""
+",0,master
+PG29792_raw.txt,2773,"Here are some good ones that we published within the past two months:
+",6,master
+PG16648_raw.txt,2483,"""Grace,"" came a call from the floor above, ""you can have your turn at the basin and the looking-glass if you'll come this minute.
+",3,master
+PG54212_raw.txt,2955,“But Gladys?”,0,label_studio_a
+PG11686_raw.txt,365,"Perhaps it will be just the thing to give it any value.
+",0,master
+Archibald_Clavering_Gunter_-_Miss_Dividends_A_Novel.txt,518,"the coat of Prince Albert style, open and unbuttoned and falling below the knees of his trousers, that are cut in what was then called the ""peg-top"" pattern;",5,browse_a
+G._K._Chesterton_-_The_Man_Who_Was_Thursday_A_Nightmare.txt,2603,It was true that the black patch of the pursuing men was growing smaller and smaller as the peasant belaboured his horse.,5,browse_a
+H._A._Cody_-_The_Unknown_Wrestler.txt,5999,"And as she stood there, an auto swung up and stopped just outside the open door.",8,browse_a
+Ridgwell_Cullum_-_The_Twins_of_Suffering_Creek.txt,2599,Then he kissed Vada.,7,app_b
+PG20359_raw.txt,2405,"Mutinous and bright she looked at him out of the chair with a hand on either arm of it poised for flight or defence.
+",5,master
+Evelyn_Raymond_-_The_Brass_Bound_Box.txt,1050,Moses paused in his work and looked at the girl in great surprise.,5,browse_a
+Walter_Frith_-_The_Sack_of_Monte_Carlo_An_Adventure_of_To-day.txt,1929,"to each Brentin whispered, “Got your bag all right?” and each nodded a reply.",10,browse_a
+PG38675_raw.txt,2158,"Then he came on again with more confidence.
+",1,master
+Charles_M._Horton_-_Bred_of_the_Desert_A_Horse_and_a_Romance.txt,501,"They reached a point on the outskirts where streets appeared, sharply defined thoroughfares, interlacing one with the other.",8,browse_a
+PG12900_raw.txt,373,"""Alas! yes,"" said the Baroness, wiping her eyes.
+",7,master
+"Elizabeth_W._Champney_-_Witch_Winnie's_Mystery,_or_The_Old_Oak_Cabinet.txt",2903,"Then we admired the light and graceful way in which an agile youth took the hurdles, and the professional style of two walkers, and after this my glance wandered for a time over the spectators.",5,browse_a
+PG42699_raw.txt,403,"A CHAPTER ON GHOSTS
+",6,master
+W._H._Hudson_-_Green_Mansions_A_Romance_of_the_Tropical_Forest.txt,1663,"I waved my hand in good-bye, laughingly reminding her that I was proof against all perils.",10,browse_a
+"Margaret_Penrose_-_The_Motor_Girls_on_the_Coast;_or,_The_Waif_From_the_Sea.txt",3162,"Finally the captain himself was hauled off, and he landed amid cheers from the brave men who had helped save him.",0,browse_a
+H._Rider_Haggard_-_Allan_Quatermain.txt,4297,"She is being brought up here, and I don’t know what will happen to her, poor soul!” and he sighed.",10,browse_a
+C._M._Stevens_-_The_Adventures_of_Uncle_Jeremiah_and_Family_at_the_Great_Fair.txt,426,He wore a neat paper collar with an old-fashioned ready-made necktie pushed under the points.,5,browse_a
+W._Crispin_Sheppard_-_Don_Hale_with_the_Flying_Squadron.txt,1506,"Outside of the hazardous nature of their occupation, the members of the American Squadron, unlike the “doughboys” and poilus, lived a life of ease and comfort.",0,app_b
+PG37815_raw.txt,3980,While waiting for a response he noticed the name _Belva Lou_ painted upon the stern of a small boat that lay bottomside up upon the deck.,8,label_studio_a
+Fannie_Belle_Irving_-_Six_Girls_A_Home_Story.txt,3469,"On Friday morning, while the girls were flying busily around, and Mrs.",9,app_b
+PG47211_raw.txt,563,"he puffed out his chest as he walked and breathed heavily under his mustache, and made savage little cuts at the air with his cane, as though it had been a sword.",1,label_studio_a
+PG31772_raw.txt,275,"The army began to move out very promptly, and soon the 200th Ind.
+",9,master
+PG36325_raw.txt,1251,"“I think Jerry would make a fine president,” said Harriet Delaney with emphasis.
+",0,master
+PG29203_raw.txt,541,"Ruth and Helen were climbing out of the old coach now, and the girl named Madge Steele looked them over sharply.
+",5,master
+PG48009_raw.txt,5256,"I've seen many a girl work that dodge,"" remarked Dunstan.
+",0,master
+PG34468_raw.txt,2286,"She seated herself by the table, and I took the chair she indicated.
+",2,master
+Frances_R._Sterrett_-_The_Amazing_Inheritance.txt,4924,"Everybody upstairs is asleep, and I don't want them disturbed.""",0,app_b
+Arnold_Bennett_-_Anna_of_the_Five_Towns.txt,2048,Sutton beckoned with her finger to Anna to come and occupy the stool vacated by Beatrice.,10,browse_a
+PG23789_raw.txt,1345,"They, talking to each other, smiling at each other, enjoying each other's exclusive attention, did not observe her emotion, although almost any casual spectator must have seen it in the deadly pallor of her face.
+",4,master
+PG48336_raw.txt,3741,"When his first transports of delight were over and we had told him that our object was to destroy the Fort and to restore fugitives such as he to their kinsmen, he looked at us in dismay, saying of his own accord,
+",9,master
+R._M._Ballantyne_-_The_Island_Queen.txt,386,"Then the three lay down in the cave, and in five minutes were sound asleep.",1,browse_a
+H._Rider_Haggard_-_Jess.txt,780,"He moved towards her, looking at her curiously.",5,app_b
+Grace_Brooks_Hill_-_The_Corner_House_Girls'_Odd_Find.txt,3033,She seemed to be listening all the time—as though something was going on in the hall that frightened her.,3,browse_a
+PG92_raw.txt,2817,"A moment longer he tarried to rearrange the disordered rugs, and then he left as he had entered, fastening down the rear wall of the tent as it had been before he had raised it.",2,label_studio_a
+PG10429_raw.txt,2391,"""Dwight--I thought if you wouldn't mind if I opened it--""
+",0,master
+PG32115_raw.txt,4752,"Electra felt her face growing warm in the dusk, and an unreasonable vexation possessed her against any one who should have mapped out her purposes and given him the chart.
+",3,master
+James_M._Ludlow_-_Deborah_A_tale_of_the_times_of_Judas_Maccabaeus.txt,1009,He put out his hands.,10,browse_a
+PG1900_raw.txt,751,CHAPTER SIX,6,label_studio_a
+PG43423_raw.txt,2413,"They frequented the theater, and very quickly Matilda made friends with its permanent officials and arranged for her singing lessons with the conductor of the orchestra, who was also organist of a church and eked out a meager living with instruction on the violin, 'cello, piano, organ, flute, trombone, tympani, voice production and singing--(all this was set forth on his card, which he left on Old Mole by way of assuring himself that all was as it should be and he would be paid for his trouble).
+",0,master
+PG31804_raw.txt,159,"He had a hang-dog countenance, and was almost as ugly as I.",5,label_studio_a
+PG40605_raw.txt,1808,"They hurriedly returned to shore.
+",1,master
+PG31528_raw.txt,5492,"It was heaven just to lie there, drinking in the beauty of her eyes and breathing the fragrance of her hair when she bent over to adjust his pillow.
+",3,master
+PG39870_raw.txt,265,"Just at this moment Dick ran up, waving a telegram.
+",2,master
+PG35463_raw.txt,5308,"But her face lighted with quick enthusiasm.
+",4,master
+Carolyn_Wells_-_A_Chain_of_Evidence.txt,3490,"""Did you see the pin that was extracted from the wound?""",0,browse_a
+James_Fenimore_Cooper_-_The_Spy_Condensed_for_use_in_schools.txt,745,],9,browse_a
+Compton_MacKenzie_-_Poor_Relations.txt,1553,"Her _cachucha_ is ..."" Eleanor could only blow a kiss to express what Viola's _cachucha_ was.",10,browse_a
+PG31870_raw.txt,4202,"She looked at her reflection in the long dressing-mirror in her own room, and could not see that she had added to her stature in this time ""one jot or tittle.""
+",5,master
+Claude_A._Labelle_-_The_Ranger_Boys_and_the_Border_Smugglers.txt,1346,"At one side of the room there was a window looking out on a side street or alley, Phil did not know which.",8,browse_a
+Owen_Johnson_-_Stover_at_Yale.txt,3184,"""This is rather good style,"" he said, with a glance at Troutman's genteel trousers.",8,browse_a
+Frank_Norris_-_A_Man's_Woman.txt,3184,"She had passed her time lying at full length upon her couch, her hands clasped behind her head, or pacing the floor, or gazing listlessly out of her windows, while her thoughts raced at a gallop through her mind.",0,browse_a
+PG42562_raw.txt,1635,"THE MEXICAN ESCAPES
+",6,master
+PG26992_raw.txt,488,"Seeing that they lost weight rapidly, as many as were full grown were killed and their flabby carcasses salted away to be eaten.
+",0,master
+Prentiss_Ingraham_-_Buffalo_Bill's_Spy_Trailer.txt,1660,As he drew near he politely raised his sombrero and said:,10,browse_a
+PG44247_raw.txt,2433,"The young Ferrand de Vaudemont was with their army, and had received, it was thought, some secret assistance from France; but as he was little known in arms, and had few followers, the empty title of General which he bore added little to the strength of the Confederates.",0,label_studio_a
+G._K._Chesterton_-_The_Club_of_Queer_Trades.txt,2528,It looked like an ogre's castle.,8,app_b
+PG53727_raw.txt,1519,I’m made of cast iron.,0,label_studio_a
+Archibald_Marshall_-_The_Graftons_A_Novel.txt,3018,"It was she who was doing the talking, in the most voluble of Parisian French, while the _patron_ was shrugging his shoulders and answering her with a sly, quick manner, apparently annoying to her, but amusing to her companion.",10,browse_a
+PG38710_raw.txt,7597,"To-day, after a troubled hour at home, where Ramûa's efforts at cheerfulness were like blows to him, the Greek went out, in the face of a prostrating heat, to seek by rapid walking an escape from the thoughts that pursued him, and to evade the admission to himself of the inevitable end: that he must go back to the profession of lies and of deceit; of treachery, of crimes, of death.",3,label_studio_a
+PG46549_raw.txt,915,"The sloping sunlight caught his clean-cut profile and sinewy throat.
+",3,master
+PG47434_raw.txt,2639,"Thus it was that she drove to the hotel alone, while Adair and Tommy strode off to quiet the tempest in the theater, and start a tedious and prolonged rehearsal with Miss de Vere’s understudy.
+",1,master
+PG44182_raw.txt,3702,"""And the moon--'tis extraordinary bright?""",0,label_studio_a
+PG3756_raw.txt,2845,"He gathered in Mr. van Tuyl, of whose taste in these matters he had a high opinion, and dragged him off to a jeweller’s on Broadway.
+",1,master
+"Schuyler,_Mrs._Crowninshield_-_Latitude_19°.txt",5777,We looked for him as we would for some superior being.,5,browse_a
+Edward_Eldridge_-_A_California_Girl.txt,2039,"Herne were sitting on the porch admiring the beauties of Nature all around them, Mrs.",9,browse_a
+PG4398_raw.txt,3257,"""No, he's a coward, or he wouldn't fight as he does.""",0,label_studio_a
+PG28504_raw.txt,3618,"He mopped his face with a big, red handkerchief, and looked shiftily from one boyish face to the other.
+",2,master
+Ralph_Henry_Barbour_-_The_Lucky_Seventh.txt,3358,"Mason struck out Tom easily in the last of the fifth, passed Harry Bryan, fanned Will Scott, and then, with Gordon at bat, caught Harry off first.",7,browse_a
+Dorothy_Whitehill_-_The_Twins_in_the_South.txt,1653,"She saw, by the silver moonlight that was pouring in through the window, the prostrate forms of Prue and Ann, and she heard Janet say,",9,browse_a
+PG46405_raw.txt,4855,Don't let us bring this matter to light!,0,label_studio_a
+PG840_raw.txt,6160,It is more fit for southern climates than for the fogs of Exmoor.',0,label_studio_a
+PG37433_raw.txt,395,"They rolled onto a macadamized driveway leading up to the farm buildings.
+",1,master
+Geraldine_Bonner_-_The_Girl_at_Central.txt,695,"There in the road he could see plain—the clouds were gone, the moon sailing clear and high—a motor and some people all talking very excited, and one voice, a woman’s, saying over and over, ""Oh, how horrible—how horrible!""",8,browse_a
+PG17666_raw.txt,197,"Her aunt nodded.
+",10,master
+E._W._Hornung_-_Tiny_Luttrell.txt,2659,"But Tiny made a long arm to seize the leaves and pull them to her nostrils, setting foot on the soft soil in her excitement; and when she started back, with an apology for the mark, her face was beaming.",4,browse_a
+PG38871_raw.txt,3948,And indeed he did see more than he liked.,0,label_studio_a
+PG22644_raw.txt,2473,"""That sounds very grave,"" said Mr. Newton, busy already penciling a note.
+",2,master
+Charles_James_Lever_-_Sir_Jasper_Carew_His_Life_and_Experience.txt,3863,"He is the only surviving son of Robert Harrison Curtis and Eleanor Anne, his wife, born at Meagh-valley House, in the parish of Cappagh, barony of Ivrone, Anno Domini 1704.",0,browse_a
+PG45061_raw.txt,483,But it’s hard to tell what may be happening to starboard.,0,label_studio_a
+Voleur_-_For_Love_of_a_Bedouin_Maid.txt,6896,"A few minutes’ rowing, and they were alongside the Victory, the eyes of every one on deck upon them;",5,browse_a
+PG120_raw.txt,1916,"Joyce was a doubtful case--a pleasant, polite man for a valet and to brush one’s clothes, but not entirely fitted for a man of war.",0,label_studio_a
+PG40571_raw.txt,2352,"Slipping on a dressing-gown and fur slippers, Marjorie went to her mother's room immediately.
+",2,master
+PG5094_raw.txt,5506,The hood was lifted and the driver was apparently tinkering with his engine.,5,label_studio_a
+PG14833_raw.txt,12069,"Taking the candle in his hand, he walked with a better step than might have been expected under the circumstance.
+",2,master
+PG29932_raw.txt,8416,"""Lucky people,"" he answered, smiling, ""to have found that out so soon--to have had all this modern life condensed so cozily into your harbor before your eyes--and to have discovered, while you are still young, that life is growth and growth is change.
+",4,master
+PG32460_raw.txt,1048,A stout rail ran around the top of the hull so as to allow the crew to walk along the slippery decks without danger of going overboard.,8,label_studio_a
+Harold_Bindloss_-_Wyndham's_Pal.txt,645,"Marston gave her a steady glance, and nodded.",10,browse_a
+PG20349_raw.txt,1018,This was in accord with his idea of showing a big drama indicating the development of this country from East to West.,0,label_studio_a
+PG8382_raw.txt,3054,"In the morning she directed her steps towards the East, crossed the north Branch, mistaking it for “Open Brooke,” and travelled, frequently running, in a south-east direction (her way home was due north) seven or eight miles till she came to the great Hay-meadow in Windsor.
+",1,master
+Max_Pemberton_-_Swords_Reluctant.txt,376,She stared at him amazed.,5,browse_a
+PG28805_raw.txt,1739,"""The old man is the children's grandfather, on their father's side.
+",0,master
+Josephine_Chase_-_Grace_Harlowe's_Golden_Summer.txt,3547,"On the back of it was written in a round, childish hand: 'To my father.",8,browse_a
+PG33226_raw.txt,3210,"He coiled the rope on the ground so that it would run out rapidly, and to one end of it fastened a heavy stone.
+",2,master
+PG32466_raw.txt,4595,"The enemy seemed to read Oswald's thoughts with deadly unerringness.
+",4,master
+PG25472_raw.txt,585,"And now they saw Blackbeard raise a speaking-trumpet to his lips and heard the hoarse voice come down the wind with this message:
+",5,master
+PG19810_raw.txt,1882,"Grandfather heard our story with a twinkle in his eye.
+",4,master
+PG21886_raw.txt,1330,"Landless sprang to his feet.
+",1,master
+PG41180_raw.txt,813,"her cheeks were tingeing with red.
+",4,master
+PG143_raw.txt,6599,"Next day he set out upon the last stage, and was soon within the district which had been his dealing ground in bygone years.
+",1,master
+PG37761_raw.txt,541,"Another man who had been standing near the bar sauntered towards them, cigar in hand.
+",1,master
+E._Nesbit_-_The_Railway_Children.txt,4583,“,9,app_b
+PG26596_raw.txt,4588,"You say that this gentleman was with you?""",0,label_studio_a
+PG3091_raw.txt,4879,"The man came from the eastern provinces, and had followed the left bank of the river.
+",1,master
+John_Kendrick_Bangs_-_Mrs._Raffles_Being_the_Adventures_of_an_Amateur_Crackswoman.txt,1555,"Black as my eyes were, however, I was on hand at the breakfast-table the following morning, and of course Henriette observed my injuries.",5,browse_a
+John_Ayscough_-_Mariquita_A_Novel.txt,102,Miss Sarah Jackson assumed (with admirable readiness) an expression of pathos.,4,app_b
+PG46841_raw.txt,2299,"He took off his hat as he spoke, smoothed the nap with his coat-sleeve, and then put it back very carefully upon his head.
+",2,master
+PG11696_raw.txt,1415,How had it got there?,0,label_studio_a
+L._Frank_Baum_-_Mary_Louise_and_the_Liberty_Girls.txt,1666,"But presently, realizing this was Kasker's place, she gave a little laugh and said to herself: ""This is the fellow poor little Mary Louise suspected of being the arch traitor.",4,browse_a
+PG38069_raw.txt,1858,"Stannard shrugged.
+",10,master
+PG28593_raw.txt,4608,"He leaned forward and tossed some fresh sticks of wood on the fire.
+",2,master
+Edgar_Rice_Burroughs_-_The_Son_of_Tarzan.txt,5031,Morison.,9,browse_a
+PG12954_raw.txt,4076,"On being interrogated, two of the prisoners, who were well-dressed and gentlemanlike persons, stepped forward and stated that the vessel was from St Mary's, bound to Lima, with a cargo of flour and passengers;
+",1,master
+PG41440_raw.txt,3476,"All at once Poppea was kneeling beside Philip, her arms tight about him, whispering, ""I called you because I need you, shall always need you to help me to bear this.""
+",7,master
+PG44671_raw.txt,2728,"there was much moss, and the great hoofs of the moose tore this up, so that the trail was plainly visible;
+",8,master
+Frank_Aubrey_-_The_Devil-Tree_of_El_Dorado_A_Novel.txt,5204,"Presently Monella rose, and, waving his hand towards the people not clad in Coryon's uniforms, he thus addressed them,",10,browse_a
+PG36671_raw.txt,2353,"No one of the name of Tucker ever took a dare, and the twins crawled out of the great bed where I had taken my place in the middle.
+",1,master
+PG19981_raw.txt,1897,"Howbeit, across the bay he came, his lee rail smothered; and when he had landed, he shook his gigantic fist at the sea and burst into a triumphant bellow of blasphemy, most thrilling (as we were told) to hear: whereafter, with a large air (as of prospective ownership), he inspected the flakes and storehouses, heartily condemned them, wished our gaping crew to perdition, and, out of breath at last, moved up the path to our house, his great dog hanging like a shadow at his heels--having come and gone on the wharves, as Tom Tot said, like a gale o' wind.
+",1,master
+Hugh_Lundsford_-_The_Law_of_Hemlock_Mountain.txt,4269,The following changes were made to the original text:,6,browse_a
+PG30825_raw.txt,679,"To their cityfied eyes the dense growth of underbrush between the trees was the wilderness itself.
+",8,master
+PG38934_raw.txt,44,"The scent of the sweet grasses, mingled with the aromatic odor of the pine, filled the room with a dreamy fragrance that seemed like a charm to lure down the Sleep Manitou.
+",3,master
+PG39138_raw.txt,1304,"She went slowly to the door and opened it.
+",2,master
+Warwick_Deeping_-_Mad_Barbara.txt,1370,She had seen the torches go tossing out from the gate with a trail of shadowy figures following.,8,browse_a
+PG37481_raw.txt,131,"The tent itself was unlike any other ever seen at East Molesey.
+",8,master
+PG35505_raw.txt,4463,"he kept his eyes fixed on the coroner's head.
+",5,master
+PG29088_raw.txt,1899,"His smile was pleasant, like Floyd's, and his greeting cordial and even fatherly.
+",4,master
+PG19204_raw.txt,4,"Published March, 1919
+",6,master
+PG11556_raw.txt,1048,"They catch me by the arms, and taking no notice of the angry movement that I cannot restrain, bundle me down the hatchway.
+",7,master
+Terence_Casey_-_The_Wolf_Cub_A_Novel_of_Spain.txt,2056,"He did not lift his voice in reply, nor even turn his head.",10,browse_a
+William_De_Morgan_-_Somehow_Good.txt,708,"Also a vertical orange-yellow glass vase, twisted to a spiral, and full of spills.",8,browse_a
+PG34928_raw.txt,184,"But by this time Jack had marched across the room and was gently but firmly pulling Frieda down from her exalted position.
+",7,master
+Ellen_Anderson_Gholson_Glasgow_-_Phases_of_an_Inferior_Planet.txt,6613,"Anthony was standing at the foot of the bed, his eyes upon the blankets.",8,browse_a
+PG22878_raw.txt,3510,"Peter and his wife were ready to receive them.
+",0,master
+Alice_Brown_-_The_Prisoner.txt,8523,"At the top of the steps in her panoply of black chiffon, velvet, ostrich feathers--clothes so rich in the beginning and so well made that they seemed always too unchanged to be thrown away and so went on in a squalid perpetuity--she laid a hand on Esther's wrist.",7,app_b
+PG45657_raw.txt,512,"On the Saturday morning when Polly and Betty started driving toward town on their errand, about a quarter of a mile from the cabin they came unexpectedly upon Nan.
+",1,master
+H._Esselstyn_Lindley_-_Zula.txt,2373,June looked out at the dreary sky.,8,browse_a
+"Compton_MacKenzie_-_Sinister_Street,_vol._2.txt",6790,Michael admitted he read a good deal.,0,app_b
+Marcel_Allain_-_The_Exploits_of_Juve.txt,739,"""You told me to make up as an American.""",0,app_b
+PG47023_raw.txt,1987,"I brung him down on the ladder.
+",7,master
+PG38896_raw.txt,932,"They said how nice it was to know somebody who had had an adventure like that, and Mr. Rabbit changed his seat so he could be next to Mr. 'Possum, because he said he wanted to write it all down to keep.
+",1,master
+PG15180_raw.txt,772,"A cheer of welcome went up as Bobby and Percival scrambled up the ship's-ladder.
+",2,master
+PG28966_raw.txt,281,"Dorothy and Edna were out in the school yard playing, but when they came in the new scholar looked smilingly at Edna and after a while she made her way to where they were standing.
+",1,master
+PG39238_raw.txt,9150,"""I see. M-m. Then who purchased it for her, Reverend?""",0,label_studio_a
+PG3727_raw.txt,5352,"What big words you love to use, Joan!",0,label_studio_a
+PG43983_raw.txt,740,"The tears rushed to her eyes.
+",4,master
+Sewell_Ford_-_Torchy_As_A_Pa.txt,3410,Another weak nod.,10,browse_a
+PG27093_raw.txt,1332,"""Say, there's been a lot of excitement since we came here!"" declared Nort, his eyes shining in delight at the prospect of more.
+",4,master
+Anthony_Hope_-_The_God_in_the_Car_A_Novel.txt,2289,"""Don't quote from 'Anecdotes, New and Old,'"" interrupted Adela unkindly.",0,app_b
+PG20678_raw.txt,700,"We answered with a yell, as he sprang from his horse to lead us.
+",1,master
+PG2123_raw.txt,940,"He took a card from a shelf as he spoke, and offered it to me, saying,
+",9,master
+PG12175_raw.txt,1067,"the tall elm trees with their ivy-covered branches, and their impenetrable shadows beneath, formed a dense wall which the sight of human creatures was not keen enough to pierce.
+",3,master
+PG4965_raw.txt,3535,"To go out, or to have been out, in Scotland was a conventional phrase similar to that of the Irish respecting a man having been up, both having reference to an individual who had been engaged in insurrection.",0,label_studio_a
+PG38341_raw.txt,4242,"He pressed his temples convulsively and closed his eyes, blinded by the glare of sunlight through the window.",3,label_studio_a
+PG50418_raw.txt,1128,"Dollard turned his uneasy glance from her to the seigniory house.
+",8,master
+PG37015_raw.txt,2702,"She ran out and helped her father raise the injured man from the sled.
+",7,master
+PG4540_raw.txt,3334,"Felicia reached out her hand and took her mother's.
+",7,master
+Mary_Eleanor_Wilkins_Freeman_-_Young_Lucretia_and_Other_Stories.txt,2719,"But it seemed to Serena as if there was a flash of red and green light through the room, and Ruth had gone.",3,app_b
+PG40024_raw.txt,838,"Joan curtsied prettily and kissed Granny's wrinkled white hand.
+",7,master
+PG31259_raw.txt,188,"""Well, the Life-Saving end of the Coast Guard doesn't!""",0,label_studio_a
+PG11686_raw.txt,7969,"The room was in semi-darkness, veiled by heavy curtains.
+",3,master
+Thomas_A._Janvier_-_The_Aztec_Treasure-House.txt,3193,"""By G----d!"" he cried, ""they meant us to do just what we've done, and we've walked into their trap like so many d----n fools!""",0,app_b
+PG2735_raw.txt,2356,"The Governor rose suddenly, striking the table with his scabbard to stop Rigaud in his rash and dangerous speech.
+",2,master
+PG38498_raw.txt,3096,"On each side, the troops were at work, improving their cover, and for their work they had partial security;",0,label_studio_a
+Wilkie_Collins_-_The_Frozen_Deep.txt,2492,a cry of recognition burst from his lips.,4,browse_a
+PG15867_raw.txt,2434,"Then the smile suddenly left her face, and with a startled exclamation she turned back to re-read it, hurrying on to the bottom of the page.
+",4,master
+Arthur_Morrison_-_Chronicles_of_Martin_Hewitt.txt,1005,"It was the door of the bullion-room, which had been forced by the divers in the morning.",8,browse_a
+Irving_Bacheller_-_The_Prodigal_Village_A_Christmas_Tale.txt,551,"The gossip ceased abruptly, for the girls were coming out of the Palm Room.",1,app_b
+PG41445_raw.txt,2826,"the sun had set, and the moon was just rising from the sea;
+",3,master
+PG37015_raw.txt,2565,"Soberly, Prince drew the new red sled and his little mistress along the road towards Miss Amanda’s.
+",2,master
+PG55183_raw.txt,4451,He ran to let go the halyards.,1,label_studio_a
+"Schuyler,_Mrs._Crowninshield_-_Latitude_19°.txt",6243,[Illustration: The Pythoness circled slowly around.],6,browse_a
+PG33043_raw.txt,1597,"""Nay,"" said he, ""but I am in downright earnest.",0,label_studio_a
+PG27594_raw.txt,1270,"As she neared her home, she saw two soldiers coming out of the little garden.
+",5,master
+Lillian_Elizabeth_Roy_-_Polly's_Business_Venture.txt,1702,"""Come again, when you have more time to poke around,"" said he, as he stood on the doorstep watching them walk towards the car which was waiting a short distance down the street.",5,browse_a
+PG22745_raw.txt,6259,"Just here, Judah, having returned from stabling the Foam Flake, rushed into the kitchen to demand answers to a thousand questions.
+",1,master
+PG33475_raw.txt,1924,"She smiled slowly and bitterly, but did not see the hot blood rise to his face.
+",4,master
+PG33230_raw.txt,3082,"But he saw that, while the chauffeur retained his seat, the door was opened from the inside and a tall man, in a high hat and a fur coat, which exposed an evening shirt, stepped with nervous haste to the sidewalk.
+",5,master
+PG42423_raw.txt,3356,"Well, I come up to Denver not long ago, and this fortune teller I spoke of told me all about that trouble I had with Davison, and about how I was put out that time by you, and everything.
+",0,master
+"Louis_Arundel_-_Motor_Boat_Boys_Down_the_Danube;_or,_Four_Chums_Abroad.txt",1182,"Once George sauntered over to the door that led to the street and looked out, but he did not venture forth.",8,browse_a
+PG47084_raw.txt,4364,"John Rosedewʼs only child began to cry again at hearing it, and put her little hand into her pocket in the simplest way imaginable.",2,label_studio_a
+PG21529_raw.txt,17,"CONTENTS
+",6,master
+PG40116_raw.txt,3731,"""To business, now, gentlemen; to business,"" said Peter, waving his hand toward his private den, where first he was greeted in his royal robes by the genteel ghost and the ring-master.
+",10,master
+Perceval_Gibbon_-_Flower_o'_the_Peach.txt,6890,"Paul took his stand by the window, leaning with a shoulder against it, looking abstractedly at her face, and waiting to hear her speak.",5,browse_a
+PG39570_raw.txt,2041,"Angela was looking dolefully at the big lump the bandaged foot made under the covers, and her eyes were misty.
+",4,master
+Edith_Wharton_-_The_Reef.txt,418,"Above the doorway, an arch of flame flashed out the name of a great actress, whose closing performances in a play of unusual originality had been the theme of long articles in the Paris papers which Darrow had tossed into their compartment at Calais.",8,browse_a
+PG30530_raw.txt,1629,"At the club, they were far too facetious;
+",0,master
+PG17446_raw.txt,1976,There was none of the passionate joy in his face which she had so confidently expected;,4,label_studio_a
+James_Otis_-_The_Boy_Spies_with_the_Regulators.txt,597,"The royalist led the prisoners to the lean-to, tied their hands and feet, and left them in charge of the negro, giving orders for him to shoot with intent to kill if either made any effort to cry out for help in case travelers passed that way.",7,browse_a
+Evelyn_Raymond_-_A_Daughter_of_the_Forest.txt,947,"The more timid of the creatures obeyed her, but some held their ground persistently, hoping for greater favors.",5,browse_a
+PG5182_raw.txt,1592,"He did so, shrugged up his shoulders, and remained silent.
+",10,master
+John_Ayscough_-_Mariquita_A_Novel.txt,89,"Up over the sandy river-bed came the two strangers, and Mariquita stood awaiting them.",5,app_b
+Christopher_Morley_-_The_Haunted_Bookshop.txt,778,"Then, at the top of the steps, he found that his pipe had already gone out.",8,browse_a
+"Edward_Stratemeyer_-_The_Rover_Boys_at_Colby_Hall;_or,_The_Struggles_of_the_Young_Cadets.txt",2102,"""Maybe he'll lay for you, Fred,"" smiled his big cousin.",4,app_b
+Hamilton_Drummond_-_The_Justice_of_the_King.txt,2116,"It was spray of wild sloe cut from a thicket and trimmed to the shape of a cross, with one stiff thorn, broad based and sharp at the point as a needle, projecting at right angles from the intersection.",8,browse_a
+PG9112_raw.txt,1186,"The soldiers smoked and talked, and Dick sat quietly there and listened.",2,label_studio_a
+PG620_raw.txt,1700,"Oo should always wait till he comes, before oo talks to him!”",0,label_studio_a
+PG28780_raw.txt,5078,"He felt gloomy and depressed.
+",0,master
+PG52139_raw.txt,4544,"The flicker of the fire played upon her face, and set a lustre in her eyes.
+",3,master
+John_Henry_Goldfrap_-_The_Ocean_Wireless_Boys_on_War_Swept_Seas.txt,1142,"""Heavens, lad, what a dive,"" cried the third mate admiringly, when Jack was somewhat recovered and Dick lay covered with seamen's coats on the floor of the boat.",5,browse_a
+PG24839_raw.txt,850,He hailed the driver:,9,label_studio_a
+PG22752_raw.txt,2895,"While her brave eyes met mine I seemed to drown fathoms deep in the blue of them.
+",5,master
+Clara_Reeve_-_The_Old_English_Baron_a_Gothic_Story.txt,2155,“PHILIP HARCLAY.”,0,browse_a
+PG26165_raw.txt,1983,"Against yesterday's clouds tomorrow's skies lay blue.
+",0,master
+"Stephen_Crane_-_The_Little_Regiment,_and_Other_Episodes_of_the_American_Civil_War.txt",1596,"""Now, look a' here,"" said Peter.",0,browse_a
+PG38306_raw.txt,2615,"Mr. Sarkies climbed up sufficiently high to overlook the wall, and Lizzie stood on the ground below him.
+",2,master
+E._Phillips_Oppenheim_-_Anna_the_Adventuress.txt,5207,His eyes were fixed upon the tablecloth.,8,browse_a
+"St._George_Rathborne_-_Camp_Mates_in_Michigan;_or,_with_Pack_and_Paddle_in_the_Pine_Woods.txt",2365,"The first thing Teddy did, however, was to exchange guns with Amos; and the very touch of his recovered favorite seemed to send a thrill of pleasure through the whole system of the lumberman’s son.",3,browse_a
+Francis_Perry_Elliott_-_The_Haunted_Pajamas.txt,543,"The way with these lunatics, I thought.",0,app_b
+PG9182_raw.txt,2554,"How tremblingly I approached the window and glanced into your Eden—an Eden for me, though a desert for you!—how I feared to behold vacancy, or the dragon aforesaid!
+",3,master
+PG18701_raw.txt,3390,"As soon as possible she hastened back to the seclusion of her own room.
+",1,master
+Upton_Sinclair_-_On_Guard_Mark_Mallory's_Celebration.txt,4006,"The girl had raised her hands to the sky, a weird figure;",5,browse_a
+PG38685_raw.txt,7570,"She suddenly placed her hands before her face and burst into tears.
+",7,master
+PG33498_raw.txt,1973,"ARCADES AMBO
+",6,master
+PG43994_raw.txt,4179,"Then he smiled provokingly, and continued, ""Perhaps, however, it will be better to build the new store of wood, as already planned, so you can give most of your time to building a railroad, so that we may get our golden bricks, and other goods, to market.""
+",4,master
+PG37003_raw.txt,2817,"The sunshine grew warmer, beating down upon the paving stones in the yard, the faces kept their places in the windows, the child’s shrill, rebellious cry burst out again and the woman’s sharper voice.",3,label_studio_a
+PG53006_raw.txt,6435,"Groping about, my outstretched hands came in contact with the face of some one lying prostrate on the ground, and damp and icy cold, as if life had fled.",7,label_studio_a
+Henry_Herbert_Knibbs_-_Lost_Farm_Camp.txt,20,“Us as don’t know Nothin’”    XIII.,6,browse_a
+Absalom_Martin_-_Kastle_Krags_A_Story_of_Mystery.txt,3285,again I could see their erect figures on the gray crags and the gleam of their rifles in their arms.,5,browse_a
+Anna_Miller_Costantini_-_Ragna.txt,3941,"Her thoughts had freer scope and wandered far and wide, increasing in bitterness as the days crawled by.",0,app_b
+PG41232_raw.txt,3353,"Sophie groped her way to the rear hall.
+",2,master
+PG46152_raw.txt,852,"Dr. Ti Kung observed that his charge had been whipped back to consciousness by the voices of the tourist party.
+",5,master
+PG47832_raw.txt,3333,"He nodded to what was said, waved his hand in the direction of the master’s box, and the latter sent an attendant to the keeper of the beasts.
+",10,master
+PG18891_raw.txt,1418,"What is it about the sight of sheep that excites one so?
+",3,master
+PG25514_raw.txt,2782,"OUR YOUNG AEROPLANE SCOUTS IN THE BALKANS; or, Wearing the Red Badge of Courage Among Warring Legions.
+",6,master
+Arthur_Conan_Doyle_-_Round_the_Red_Lamp_Being_Facts_and_Fancies_of_Medical_Life.txt,3235,"In the month of May, in the year 1884, three young men occupied the sets of rooms which opened on to the separate landings of the old stair.",0,browse_a
+PG122_raw.txt,3858,good things are wasted upon me.,0,label_studio_a
+Dorothy_Whitehill_-_Polly's_Senior_Year_at_Boarding_School.txt,4410,"Each story contains mystery, excitement, or adventure from the very first chapter to the last.",6,browse_a
+PG26057_raw.txt,153,"Now it seems Captain Marmaduke was on a voyage to the Bermudas and taking the maid with him, while the boy, to better his schooling and strengthen his body with sea air, was sent to Sendennis to stay with his other uncle, Nathaniel Amber, now, to all appearance, reconciled to the existence of his young relative.
+",1,master
+PG21618_raw.txt,3321,"But Young, who could not be expected to share in my delight at seeing actually alive, and ourselves made party to it, a custom that was supposed to have been extinguished to more than three centuries, grew exceedingly indignant at having thus placed about his neck what he coarsely described as ""an overgrown d----n goose-yoke.""",0,label_studio_a
+PG41721_raw.txt,2047,They were hunting in the tall grass.,1,label_studio_a
+John_Maxwell_Forbes_-_Doubloons—and_the_Girl.txt,557,"""It was nip an' tuck for a while, but we were fighting for our lives, an' we beat 'em off at last an' sent what was left of 'em tumbling into their praus.",0,app_b
+John_Henry_Goldfrap_-_The_Boy_Scouts_Under_Fire_in_Mexico.txt,2841,"Tubby and Andy were perhaps more enthusiastic over the collections in the Institute than over the color decorations in the Library; but Rob and Merritt observed no lack of interest, their own pleasure in everything being so complete.",5,browse_a
+PG28740_raw.txt,3151,"She stood up and looked over at Liz Bean.
+",5,master
+Maria_Thompson_Daviess_-_The_Heart's_Kingdom.txt,1098,"I'll pour a bucket of cistern water over you and rub you down so as you'll sleep like a bug in a rug,"" the staunch old comrade crooned, with a mother note in his voice, as he took father's heavy hoe and shouldered it with his.",2,app_b
+PG22063_raw.txt,6787,"Likely I would never see them again.
+",0,master
+PG40526_raw.txt,2798,"My mother's face fell, and then lit up again.
+",4,master
+PG5898_raw.txt,379,"—Author.
+",6,master
+"A._Stone_-_Fighting_Byng_A_Novel_of_Mystery,_Intrigue_and_Adventure.txt",442,"To men living in these swamps, where you never hear anything louder than a bull frog, a rifle shot is a terrific report, but when you let loose a real noise, blow in the whole side of their dug-out and let stumps roll in on them as you say, they couldn't help but give up.",0,app_b
+PG28376_raw.txt,3859,"Ellen crossed directly over to him, and putting her little hand in his great rough one, said, ""I am very much obliged to you, Mr. Van Brunt, for taking so much trouble to come and look after me.""
+",7,master
+PG20330_raw.txt,4604,"he tapped his forehead, and replied:
+",7,master
+PG52302_raw.txt,1770,"""If there is anything I can do to assist you further, don't fail to call upon me freely!"" warbled the lady, as Evelyn passed out into the hall.
+",1,master
+PG25070_raw.txt,1366,He sent himself a telegram.,2,label_studio_a
+Carlo_Collodi_-_The_Adventures_of_Pinocchio.txt,1882,He looked up and saw two tall Carabineers near him.,5,browse_a
+PG28574_raw.txt,4023,"By
+",9,master
+May_Agnes_Fleming_-_The_Actress'_Daughter_A_Novel.txt,3783,"Slowly and impressively Georgia lifted her head, and keeping her gleaming, burning eyes fixed on the sallow face before her, pointed to the door.",5,browse_a
+Nell_Speed_-_Molly_Brown's_Sophomore_Days.txt,1570,Judith had not noticed Molly at first.,5,browse_a
+PG5738_raw.txt,687,"He paused, and his glance met Skinner's wonderingly as a bright idea leaped into his cunning brain and crystallized into definite purpose.
+",5,master
+PG35447_raw.txt,1473,"The Colonel took the morning paper from the table and read:
+",2,master
+PG16959_raw.txt,1629,"He caught her hand, and unconsciously wrung it till she cried out in pain.
+",7,master
+PG39323_raw.txt,1736,"The young man swung her to his shoulder, and kissed the soil-stained hand which the child laid against his cheek.
+",7,master
+Hamlin_Garland_-_Other_Main-Travelled_Roads.txt,2808,"You've got t' have some savvy in this, just like any other business.""",0,app_b
+PG40572_raw.txt,1638,"The mate rolled him over with his foot, and seeing that he had no weapons of any kind ordered him thrown on the hatch to sleep it off.
+",7,master
+"Henry_James_-_The_Wings_of_the_Dove,_Volume_1_of_2.txt",3546,"Stringham facing the ordeal together, Kate Croy should remain with her and await their return.",0,app_b
+Thomas_Dixon_-_The_Leopard's_Spots_A_Romance_of_the_White_Man's_Burden—1865-1900.txt,9117,"When the Governor acknowledged the applause of his name, he bowed to his bride, not to the crowd.",10,browse_a
+PG51199_raw.txt,384,"But there was nothing of interest except Miss Palmer’s trunk which was locked and consequently inaccessible.
+",2,master
+PG22012_raw.txt,4083,"Every Volume Complete in Itself
+",6,master
+Ralph_Henry_Barbour_-_Left_Guard_Gilbert.txt,1959,"""Wouldn't I be!"" growled Tom.",0,app_b
+PG1845_raw.txt,3310,"And there was no reason at all to doubt the survival of Noaks.
+",0,master
+PG41741_raw.txt,1267,"Half-a-dozen urchins peering enviously in at the open front door made way for him.
+",5,master
+PG1155_raw.txt,748,Tommy frowned in an effort at remembrance.,4,label_studio_a
+E._M._Forster_-_Where_Angels_Fear_to_Tread.txt,961,"He found her still in the living-room, combing her hair, for she had something of the slattern in her nature, and there was no need to keep up appearances.",5,browse_a
+PG47417_raw.txt,2795,"Would they find Snake Island?
+",0,master
+PG32053_raw.txt,4331,"Peter hastened to defend himself.
+",1,master
+PG9908_raw.txt,1955,Subsequently the Brooke girl had found and entrusted it to Lanyard.,2,label_studio_a
+PG16368_raw.txt,5044,*      *      *      *      *      *,6,label_studio_a
+Ridgwell_Cullum_-_The_Twins_of_Suffering_Creek.txt,2598,Scipio set a bundle he was carrying upon the floor and scrambled Jamie into his arms and kissed him.,7,app_b
+Gaston_Leroux_-_The_Double_Life.txt,2894,"The only thing to break the line of the track was a short side line which ran into a disused quarry, which had been used as a sand quarry by a glassmaker.",0,browse_a
+PG50414_raw.txt,3934,"Stick looked genuinely puzzled.
+",4,master
+PG41206_raw.txt,2750,"""Yes, that's what we did--pulled it out of the fire,"" agreed Tom, with a smile.
+",4,master
+PG18035_raw.txt,2814,"Marjorie couldn't help laughing, which, naturally, only irritated Hester the more.
+",4,master
+Eldridge_B._Hatcher_-_Dorothy_Page.txt,2704,That was the verdict of the people when the blissful pair smiled their adieus at the depot and moved off on their wedding tour.,1,browse_a
+PG35509_raw.txt,872,"It was a pair of humorous gray eyes, twinkling in irrepressible goodwill, that lighted and relieved a countenance which otherwise might have appeared unduly severe....
+",4,master
+F._Marion_Crawford_-_Adam_Johnstone's_Son.txt,1677,"""No,"" answered Clare, yielding.",0,browse_a
+"Stephen_Crane_-_The_Little_Regiment,_and_Other_Episodes_of_the_American_Civil_War.txt",1675,"And, as if to add more to this reproach, he climbed the fence that compassed the woods, looking resentfully back at his companion.",2,browse_a
+"Georgie,_Mrs._Sheldon_-_The_Heatherford_Fortune.txt",85,"""Ah! mademoiselle honors me,"" said the gentleman, with a grave and courteous bow.",10,browse_a
+PG3424_raw.txt,6331,"“Come, Mr. Meekin,” said Vickers, when the door closed behind the ladies, “help yourself.
+",1,master
+PG56831_raw.txt,2101,"Mr. Manning stared at the curé, whom he was almost forgetting in his interest in Eugene.
+",5,master
+PG22231_raw.txt,3394,"She lifted a card and surveyed her work critically, thinking the while, not of the wonderful golden and purple flower, holding its beautiful head with as stately a grace as if it were still swaying upon its stem, but of the great ""mining-boom"" that was upon the town, and of the chances of a fortune.
+",2,master
+PG42740_raw.txt,1066,"""Who's going to give it to me?"" demanded Clancy.",0,label_studio_a
+PG3785_raw.txt,1311,"The parting was a sad one indeed, but it was over at last, and Monsieur du Tillet hurried the two boys away as soon as their father returned with them.
+",1,master
+PG46405_raw.txt,1981,"He saw Mrs.
+",9,master
+PG46540_raw.txt,1699,"In marshy places and along streams reeds, grasses and water plants grow in tangled masses, and in the forests the trees crowd each other and are draped with parasitic vines.
+",3,master
+PG37289_raw.txt,2327,"Susan shook her head hard.
+",10,master
+George_Gibbs_-_The_Forbidden_Way.txt,3309,"""Of course, I’m very much honored, Mrs. Rumsen.",0,browse_a
+PG24769_raw.txt,2562,"She cast a victorious glance at Beecot.
+",5,master
+PG1145_raw.txt,1019,"Bernenstein nodded from time to time.
+",10,master
+Jay_Winthrop_Allen_-_The_Trail_Boys_on_the_Plains.txt,2196,"In wartime the Indians performed this trick, shooting at their enemies under the ponies’ necks.",0,browse_a
+PG24071_raw.txt,719,"""Are you going to have a battle here?"" she asked.
+",0,master
+Walter_Scott_-_The_Black_Dwarf.txt,814,"He then started into an access of frenzy, and unsheathing a long sharp knife, or dagger, which he wore under his coat, he was about to launch it at the dog, when Hobbie, perceiving his purpose, interposed, and caught hold of his hand, exclaiming, “Let a be the hound, man--let a be the hound!--Na, na, Killbuck maunna be guided that gate, neither.”",7,browse_a
+Melvin_E._Trotter_-_Jimmie_Moore_of_Bucktown.txt,135,The house was one of the most disreputable looking places in the neighborhood.,8,browse_a
+PG25477_raw.txt,3363,"""No, but there were owls in the trees.
+",0,master
+PG26596_raw.txt,2796,"Annabel watched her with wide-open, terrified eyes.
+",5,master
+PG18829_raw.txt,173,"And he'd risen and ridden out at dawn toward Reservoir.
+",1,master
+PG33616_raw.txt,1072,"""A heart is a strange thing,"" she laughed to him.
+",4,master
+PG28504_raw.txt,3633,"Get out, I say.""
+",0,master
+Thomas_W._Hanshew_-_Cleek_of_Scotland_Yard_Detective_Stories.txt,2051,"""By James! what a ripping idea,"" said Mr. Narkom approvingly.",0,browse_a
+Inez_Haynes_Gillmore_-_Maida's_Little_Shop.txt,1750,"On one side was the river with the draw-bridge, the Navy Yard and the monument on Bunker Hill.",8,browse_a
+Laura_Elizabeth_Howe_Richards_-_Toto's_Merry_Winter.txt,995,And he played a lively air on his fiddle.--PAGE 97.],6,browse_a
+PG53394_raw.txt,2030,“My Lord Stephen the Marshal outmatches him.”,0,label_studio_a
+PG36314_raw.txt,2001,"Dick’s eyes shone.
+",4,master
+PG27575_raw.txt,2721,"He had on yellow gloves, although he wore heavy gaiters;",5,label_studio_a
+Clara_Ingram_Judson_-_Mary_Jane_Down_South.txt,466,The sun began going down in the west and the girls got so very hungry they were only too glad to buy generous helpings of fruit from their new playmates.,2,app_b
+Oliver_Onions_-_The_Compleat_Bachelor.txt,423,"“Well, you shouldn’t tease them so,” replied Mrs.",9,browse_a
+John_Henry_Goldfrap_-_The_Boy_Scouts_for_Uncle_Sam.txt,2672,Merritt asked the question looking into his comrade's eyes as he clasped Rob's extended hand.,7,browse_a
+PG26316_raw.txt,6385,"""Yes,"" said Susan, ""I like his hair and I like him.
+",0,master
+Edward_Stratemeyer_-_Young_Captain_Jack.txt,2845,"Jack watched the departure of the men with interest, and then espied Darcy Gilbert running toward him.",5,browse_a
+PG36159_raw.txt,14128,though her cheeks burned and every  nerve in her trembled.,3,label_studio_a
+PG17988_raw.txt,1807,"""I was as blue as indigo last night.
+",0,master
+PG4964_raw.txt,274,"His food was brought to him by one of his daughters, a child of eight years old, whom Mrs.
+",9,master
+PG57305_raw.txt,2015,"“Don’t be a fool!” hissed Rook.
+",0,master
+PG37698_raw.txt,4550,"The face was set in its stern expression, like a fallen statue of his proud, imperious self.
+",4,master
+PG5730_raw.txt,177,"There was no snow on the ground at first, but before noon it began to fall thick and fast.
+",3,master
+PG90_raw.txt,4146,"When she recognized Hanson she drew back, startled.
+",5,master
+PG46233_raw.txt,13,"It      is the kind of book that one wants to sit up nights to finish.
+",6,master
+Florence_Morse_Kingsley_-_Those_Brewster_Children.txt,1394,"But she finished her self-imposed task at an early hour, and after playing two or three tuneful little chansonettes on Elizabeth's hard-worked and rather shabby piano, excused herself.",2,app_b
+William_Sharp_-_Green_Fire_A_Romance.txt,2040,Suddenly the woman flashed her black eyes upon him.,5,browse_a
+PG36748_raw.txt,2823,Ruth wished she was back in Paris with her chum that they might institute a search for Tom Cameron.,0,label_studio_a
+Anonymous_-_Great_Ghost_Stories.txt,840,"When no more came, the drummer stopped playing, and said, 'Call the roll.'",0,app_b
+PG15570_raw.txt,1517,"She shot a malevolent glance at me.
+",4,master
+PG2123_raw.txt,1906,"She smiled at the windows that looked out upon the green and luminous garden;
+",4,master
+PG39159_raw.txt,3415,"CHAPTER 29.
+",6,master
+PG34507_raw.txt,2293,"And I'm not at all practical.
+",0,master
+PG53109_raw.txt,5035,"She came and stood beside him.
+",1,master
+PG34978_raw.txt,1373,"Undoubtedly the ancients were quite right in regarding youth as a kind of fever, an intermittent sickness lasting from puberty to middle age.
+",0,master
+Carolyn_Wells_-_Betty's_Happy_Year.txt,422,"A large room with two beds was allotted to Betty and Agnes, and a similar one across the entrance-hall was for the two boys.",0,browse_a
+Clair_W._Hayes_-_The_Boy_Allies_with_the_Terror_of_the_Seas.txt,1860,The German bowed low and left the room.,10,browse_a
+Voleur_-_For_Love_of_a_Bedouin_Maid.txt,3157,Then he took out his dagger and scratched the surface.,2,browse_a
+PG36490_raw.txt,1374,It was disgraceful--in a way.,0,label_studio_a
+PG23643_raw.txt,3311,"""And the other was that you should outlive me?""
+",0,master
+Holman_Day_-_The_Skipper_and_the_Skipped_Being_the_Shore_Log_of_Cap'n_Aaron_Sproul.txt,5294,He unfolded a dirty strip of paper and recited:,2,app_b
+PG18410_raw.txt,4096,"""Ed's coming here presently, my girl.""",0,label_studio_a
+Harry_Gordon_-_The_Six_River_Motor_Boat_Boys_on_the_St._Lawrence.txt,2176,"Just before sundown, after one of the pleasantest days they ever experienced, the boys reached Kingston.",3,app_b
+PG39576_raw.txt,856,"“You have to be careful about this,” he said, “if a drop of water gets into it, it blazes or flames up and may kill a fellow.",0,label_studio_a
+Anthony_Hope_-_The_God_in_the_Car_A_Novel.txt,2276,"Ah, but the words would.",0,app_b
+Frances_Hodgson_Burnett_-_The_Secret_Garden.txt,1938,"Mary was down on her knees before he spoke, gazing with all her might.",4,browse_a
+PG34034_raw.txt,6335,"But now Father Anton smiled, and shook his head, and laid his hand on Bidelot's arm.
+",7,master
+PG39262_raw.txt,702,"""If he had his way, he'd live here all the year round.""",0,label_studio_a
+Marcel_Allain_-_Messengers_of_Evil.txt,304,"This article, published on the first page of _La Capitale_, was signed:",6,browse_a
+PG21394_raw.txt,1826,"“What I mean,” said Priscilla, “is this: did he give you any reason for not landing on the island?”
+",0,master
+Roger_Thompson_Finlay_-_The_Wonder_Island_Boys_Adventures_on_Strange_Islands.txt,3453,"The vessel was sailed along the coast, and the field glasses were used to scan the land.",2,browse_a
+"Lily_F._Wesselhoeft_-_Jack,_the_Fire_Dog.txt",1187,"‘Poor little thing, he’s lame!’ she said when she saw my crippled foot.",5,browse_a
+PG25477_raw.txt,2074,"_Page 138_]
+",6,master
+PG10429_raw.txt,726,"""Well!"" said Ina.
+",0,master
+PG41296_raw.txt,6318,"""What makes you so pale?""",4,label_studio_a
+PG29617_raw.txt,5291,"But it wasn't funny for Peter, who was now made aware that she had turned his mind inside out upon the table between them, so to speak, that she might throw dust in the wheels.",0,label_studio_a
+PG40897_raw.txt,344,"Mr.--er--Kassala--Mrs.
+",9,master
+PG37827_raw.txt,12187,He was up in a moment.,1,label_studio_a
+Norman_Duncan_-_The_Adventures_of_Billy_Topsail.txt,763,At last he stopped to rest and look about.,8,browse_a
+L._M._Montgomery_-_The_Story_Girl.txt,6028,"They saw nothing but William Cowan, lying like a dead man on the path.",5,browse_a
+Alexandre_Dumas_-_The_Queen's_Necklace.txt,9894,"Beausire, seeing two strangers, called the huntsman, and asked who they were.",5,browse_a
+Florence_Morse_Kingsley_-_Those_Brewster_Children.txt,1395,"""I must write to mother,"" she said smilingly.",4,app_b
+Charles_Ross_Jackson_-_Quintus_Oakes_A_Detective_Story.txt,1210,"I heard a rustle, I thought--a half-muffled tread;",3,app_b
+PG35987_raw.txt,1946,"""I will not let myself be overcome,"" he said.
+",0,master
+Charles_Dickens_-_The_Chimes.txt,1661,"Now, gentlemen—you gentlemen that sits at Sessions—when you see a man with discontent writ on his face, you says to one another, “He’s suspicious.",0,app_b
+Allen_Chapman_-_The_Radio_Boys_at_Mountain_Pass.txt,2516,And then he looked at Bob.,5,browse_a
+PG42194_raw.txt,1148,"""I have tested average human nature,"" she resumed, after a slight pause, in which he saw her breast heave slowly.",5,label_studio_a
+William_Osborn_Stoddard_-_Two_Arrows_A_Story_of_Red_and_White.txt,2112,"It looked as if honors had fairly been heaped upon him and Na-tee-kah, and, for their sakes, upon Ha-ha-pah-no.",5,browse_a
+PG40168_raw.txt,2486,"I believe in trusting in Providence, but I can’t bear to see Providence overworked.",0,label_studio_a
+PG14107_raw.txt,1410,"I looked closer at the relief-work which had adorned it.
+",8,master
+Compton_MacKenzie_-_Plashers_Mead_A_Novel.txt,1195,The back of the house seemed to go beyond the rest in the expression of utter abandonment.,8,browse_a
+PG53566_raw.txt,991,"He folded his cloak about him, glanced at the clock, and strode from the room without a word of farewell.
+",2,master
+PG29875_raw.txt,1855,"He left the house drunk, exalted, and as the cold night air smote the forehead she had touched he was thrilled with fiery energy.
+",3,master
+PG3796_raw.txt,319,"He was lying beside Walter now with nose snuggled against his arm, thumping his tail rapturously whenever Walter gave him an absent pat.
+",7,master
+PG20132_raw.txt,1371,"Touching a spring, an iron railing sprang up, about five feet high.
+",2,master
+PG45232_raw.txt,812,"Pale and trembling, Tom passed out into the aisle and down around the jury-box, and stepped upon the little railed platform.
+",1,master
+Ralph_Henry_Barbour_-_For_the_Honor_of_the_School_A_Story_of_School_Life_and_Interscholastic_Sport.txt,1766,"Duane, 8 Bradley, 2.",9,browse_a
+"St._George_Rathborne_-_Chums_in_Dixie;_or,_The_Strange_Cruise_of_a_Motorboat.txt",2716,"McGee stood there, with his arms folded across his massive chest.",10,browse_a

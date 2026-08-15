@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated output
+figures/*
+tables/*
+!figures/.gitkeep
+!tables/.gitkeep
+
+# Large inputs kept outside the repo
+models/
+*.log
+*.out
