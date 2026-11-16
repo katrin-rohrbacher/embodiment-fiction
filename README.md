@@ -25,6 +25,8 @@ figures/  tables/      generated output
 | `04_llm_benchmark.ipynb` | LLM scores (Tables 4 and 5) |
 | `05_corpus_descriptives.ipynb` | corpus size by decade (Figure 1) |
 | `06_touch_sight.ipynb` | touch/sight results (Figures 2–4, Section 5) |
+| `07_precedence_check.ipynb` | touch-over-sight precedence bound (Section 5) |
+| `08_touch_sight_referents.ipynb` | person vs. animal referents of touch and sight (Section 5) |
 
 Notebooks 02, 04, 05 and 06 run from the committed data alone. Notebook 03 needs a GPU.
 Notebook 01 needs the raw annotation exports, which are not committed.
@@ -47,9 +49,7 @@ Committed (`data/`):
 
 ## Model
 
-The fine-tuned checkpoint will be released on the Hugging Face Hub on publication. Until then, `scripts/predict_corpus.py` and notebook 03 read a local
-checkpoint from `EMBODIMENT_MODELS`, and notebook 03 reproduces it from the committed
-splits.
+The fine-tuned checkpoint is released on the Hugging Face Hub: https://huggingface.co/katrohrb/embodiment-classifier. 
 
 ```python
 from transformers import pipeline
